@@ -34,8 +34,11 @@ I'm [Felipe Matarazzo](https://github.com/fematarazzo), I'm a full stack web dev
 
 ---
 
-
+<p align="center">
+  
   <i>Let's connect and chat! Find me on the web: </i>
+  
+</p>
   
   <div align="center">
 
