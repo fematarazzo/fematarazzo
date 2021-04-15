@@ -1,6 +1,6 @@
-<h4> Hi there! <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px"></h4>
+<h4> Hi there! <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="24px"></h4>
 
-I'm [Felipe Matarazzo](https://github.com/fematarazzo), I'm a full stack web developer recently graduated from [Le Wagon](https://www.lewagon.com/)
+I'm Felipe Matarazzo, I'm a full stack web developer graduated from [Le Wagon](https://www.lewagon.com/)
 
 **Languages and Tools:**
 
