@@ -56,5 +56,8 @@ I'm Felipe Matarazzo, I'm a full stack web developer graduated from [Le Wagon](h
 
 <div align="right">
   
-[![HitCount](http://hits.dwyl.com/fematarazzo/fematarazzo.svg)](http://hits.dwyl.com/fematarazzo/fematarazzo) ![ViewCount](https://views.whatilearened.today/views/github/fematarazzo/fematarazzo.svg)
+  [![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)
+  [![Repos Badge](https://badges.pufler.dev/repos/fematarazzo)](https://badges.pufler.dev)
+  [![Commits Badge](https://badges.pufler.dev/commits/monthly/fematarazzo)](https://badges.pufler.dev)
+
 </div>
