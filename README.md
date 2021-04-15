@@ -34,7 +34,7 @@ I'm [Felipe Matarazzo](https://github.com/fematarazzo), I'm a full stack web dev
 <p align="center">
   
   <img src="https://github-readme-stats.vercel.app/api?username=fematarazzo&hide=stars&show_icons=true&theme=tokyonight&line_height=32">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fematarazzo&count_private=true&theme=tokyonight&langs_count=3">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fematarazzo&count_private=true&theme=tokyonight&&layout=compact">
 
 </p>
 
