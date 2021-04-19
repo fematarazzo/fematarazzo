@@ -90,7 +90,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs?username=fematarazzo&s
 
 <p>&nbsp;<img 
 align="center" 
-src="https://github-readme-stats.vercel.app/api?username=fematarazzo&show_icons=true&count_private=true&locale=en&line_height=20&theme=tokyonight"
+src="https://github-readme-stats.vercel.app/api?username=fematarazzo&show_icons=true&count_private=true&locale=en&line_height=22&theme=tokyonight"
  alt="fematarazzo" /></p>
 
 
