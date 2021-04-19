@@ -5,8 +5,6 @@
  align="left"> <img 
 src="https://komarev.com/ghpvc/?username=fematarazzo&label=Profile%20views&color=0e75b6&style=flat"
  alt="fematarazzo" /> </p>
- 
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=fematarazzo)
 
 - 🔭 I’m currently working on [Food Organizer](https://github.com/fematarazzo/food_organizer)
 
