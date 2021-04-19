@@ -15,8 +15,7 @@ src="https://komarev.com/ghpvc/?username=fematarazzo&label=Profile%20views&color
 - 🤝 I’m looking for help with [Sobrou App](https://github.com/fematarazzo/sobrou_app)
 
 
-- 👨‍💻 All of my projects are available at 
-[here](https://github.com/fematarazzo?tab=repositories)
+- 👨‍💻 All of my projects are available [here](https://github.com/fematarazzo?tab=repositories)
 
 - 💬 Ask me about **Ruby on Rails**
 
@@ -103,7 +102,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs?username=fematarazzo&s
 
 <p>&nbsp;<img 
 align="center" 
-src="https://github-readme-stats.vercel.app/api?username=fematarazzo&show_icons=true&count_private=true&locale=en&line_height=20&theme=tokyonight"
+src="https://github-readme-stats.vercel.app/api?username=fematarazzo&show_icons=true&count_private=true&locale=en&line_height=20&card_width=40&theme=tokyonight"
  alt="fematarazzo" /></p>
 
 
