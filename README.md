@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="28px">, I'm Felipe</h1>
-<h3 align="center">A full stack web developer graduated from Le Wagon</h3>
+<h3 align="center">A full-stack developer graduated from Le Wagon</h3>
 
 <p
  align="left"> <img 
