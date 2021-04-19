@@ -19,7 +19,7 @@ src="https://komarev.com/ghpvc/?username=fematarazzo&label=Profile%20views&color
 
 - 📫 How to reach me **felipemps@pm.me**
 
-- 🌐 Connect with my [LinkedIn](https://linkedin.com/in/felipemps)
+- 🌐 Connect with me on [LinkedIn](https://linkedin.com/in/felipemps)
 
 - 📄 Check out my [CV](https://www.canva.com/design/DAEY7Mn3KGA/eiqwdpsKMU01GybT70aKFA/edit?category=tACZCki4tbY#)
 
