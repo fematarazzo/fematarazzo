@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="28px">, I'm Felipe</h1>
-<h3 align="center">a full stack web developer graduated from Le Wagon</h3>
+<h3 align="center">A full stack web developer graduated from Le Wagon</h3>
 
 <p
  align="left"> <img 
@@ -13,16 +13,16 @@ src="https://komarev.com/ghpvc/?username=fematarazzo&label=Profile%20views&color
 - 🤝 I’m looking for help with [Sobrou App](https://github.com/fematarazzo/sobrou_app)
 
 
- 👨‍💻 All of my projects are available at 
-[https://github.com/fematarazzo?tab=repositories](https://github.com/fematarazzo?tab=repositories)
+- 👨‍💻 All of my projects are available at 
+[here](https://github.com/fematarazzo?tab=repositories)
 
 - 💬 Ask me about **Ruby on Rails**
 
 - 📫 How to reach me **felipemps@pm.me**
 
-🌐 Check out my [LinkedIn](https://linkedin.com/in/felipemps)
+- 🌐 Check out my [LinkedIn](https://linkedin.com/in/felipemps)
 
-📄 Know about [my CV](https://www.canva.com/design/DAEY7Mn3KGA/eiqwdpsKMU01GybT70aKFA/edit?category=tACZCki4tbY#)
+- 📄 Check out my [CV](https://www.canva.com/design/DAEY7Mn3KGA/eiqwdpsKMU01GybT70aKFA/edit?category=tACZCki4tbY#)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -90,7 +90,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs?username=fematarazzo&s
 
 <p>&nbsp;<img 
 align="center" 
-src="https://github-readme-stats.vercel.app/api?username=fematarazzo&show_icons=true&count_private=true&locale=en&line_height=24&theme=tokyonight"
+src="https://github-readme-stats.vercel.app/api?username=fematarazzo&show_icons=true&count_private=true&locale=en&line_height=20&theme=tokyonight"
  alt="fematarazzo" /></p>
 
 
