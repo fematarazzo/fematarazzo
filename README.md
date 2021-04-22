@@ -42,9 +42,6 @@ src="https://komarev.com/ghpvc/?username=fematarazzo&label=Profile%20views&color
  <a href="https://www.w3schools.com/css/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
  </a>
- <a href="https://www.docker.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
- </a>
  <a href="https://elixir-lang.org" target="_blank">
   <img src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" alt="elixir" width="40" height="40"/> </a>
  <a href="https://www.figma.com/" target="_blank"> 
@@ -67,6 +64,9 @@ src="https://komarev.com/ghpvc/?username=fematarazzo&label=Profile%20views&color
  </a>
  <a href="https://nodejs.org" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+ </a>
+ <a href="https://www.phoenixframework.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/phoenix/phoenix-original-wordmark.svg" alt="phoenix" width="40" height="40"/>
  </a>
  <a href="https://www.photoshop.com/en" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
