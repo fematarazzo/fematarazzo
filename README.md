@@ -6,7 +6,7 @@
 src="https://komarev.com/ghpvc/?username=fematarazzo&label=Profile%20views&color=0e75b6&style=flat"
  alt="fematarazzo" /> </p>
 
-- 🔭 I’m currently working on [Hacker Rank](https://github.com/fematarazzo/hacker_rank) and [Food Organizer](https://github.com/fematarazzo/food_organizer)
+- 🔭 I’m currently working on [Hacker Rank](https://github.com/fematarazzo/hacker_rank) and [Star Wars App](https://github.com/fematarazzo/star_wars_app)
 
 - 🌱 I’m currently learning **Elixir, Phoenix, React, Node.js**
 
