@@ -6,14 +6,16 @@
 src="https://komarev.com/ghpvc/?username=fematarazzo&label=Profile%20views&color=0e75b6&style=flat"
  alt="fematarazzo" /> </p>
 
-- 🔭 I’m currently working on [Hacker Rank](https://github.com/fematarazzo/hacker_rank) and [Star Wars App](https://github.com/fematarazzo/star_wars_app)
+- 👨‍💻 I’m currently working for [Linker](https://www.linker.com.br)
 
-- 🌱 I’m currently learning **Elixir, Phoenix, React, Node.js**
+<!-- - 🔭 I’m currently working on [Hacker Rank](https://github.com/fematarazzo/hacker_rank) and [Star Wars App](https://github.com/fematarazzo/star_wars_app)
+ -->
+<!-- - 🌱 I’m currently learning **Elixir, Phoenix, React, Node.js**
 
-- 🤝 I’m looking for help with [Sobrou App](https://github.com/fematarazzo/sobrou_app)
+- 🤝 I’m looking for help with [Sobrou App](https://github.com/fematarazzo/sobrou_app) -->
 
 
-- 👨‍💻 All of my projects are available [here](https://github.com/fematarazzo?tab=repositories)
+- 🗄️ All of my projects are available [here](https://github.com/fematarazzo?tab=repositories)
 
 - 💬 Ask me about **Ruby on Rails**
 
@@ -21,7 +23,7 @@ src="https://komarev.com/ghpvc/?username=fematarazzo&label=Profile%20views&color
 
 - 🌐 Connect with me on [LinkedIn](https://linkedin.com/in/felipemps)
 
-- 📄 Check out my [CV](https://www.canva.com/design/DAEY7Mn3KGA/eiqwdpsKMU01GybT70aKFA/edit?category=tACZCki4tbY#)
+<!-- - 📄 Check out my [CV](https://www.canva.com/design/DAEY7Mn3KGA/eiqwdpsKMU01GybT70aKFA/edit?category=tACZCki4tbY#) -->
 
 <h3 align="left">Deployed Projects:</h3>
 
