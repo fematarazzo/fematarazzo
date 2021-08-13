@@ -93,7 +93,7 @@ src="https://komarev.com/ghpvc/?username=fematarazzo&label=Profile%20views&color
 </p>
 
 <p><img align="left" 
-src="https://github-readme-stats.vercel.app/api/top-langs?username=fematarazzo&show_icons=true&count_private=true&locale=en&card_width=280&layout=compact&theme=tokyonight"
+src="https://github-readme-stats.vercel.app/api/top-langs?username=fematarazzo&show_icons=true&count_private=true&locale=en&card_width=280&layout=compact&theme=tokyonight&langs_count=6"
  alt="fematarazzo" /></p>
 
 <p>&nbsp;<img 
