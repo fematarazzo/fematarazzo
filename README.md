@@ -1,12 +1,12 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="28px">, I'm Felipe</h1>
-<h3 align="center">A full-stack developer working with Ruby on Rails, React, Node.js and Python</h3>
+<h3 align="center">A full-stack developer working with Python, Ruby on Rails, Node.js and React</h3>
 
 <p
  align="left"> <img 
 src="https://komarev.com/ghpvc/?username=fematarazzo&label=Profile%20views&color=0e75b6&style=flat"
  alt="fematarazzo" /> </p>
 
-- 👨‍💻 I’m currently working for [Linker](https://www.linker.com.br)
+- 👨‍💻 I’m currently working for [AgileEngine](https://agileengine.com/)
 
 <!-- - 🔭 I’m currently working on [Hacker Rank](https://github.com/fematarazzo/hacker_rank) and [Star Wars App](https://github.com/fematarazzo/star_wars_app)
  -->
@@ -17,7 +17,7 @@ src="https://komarev.com/ghpvc/?username=fematarazzo&label=Profile%20views&color
 
 - 🗄️ All of my projects are available [here](https://github.com/fematarazzo?tab=repositories)
 
-- 💬 Ask me about **Ruby on Rails**
+- 💬 Ask me about **Python**
 
 - 📫 How to reach me **felipemps@pm.me**
 
