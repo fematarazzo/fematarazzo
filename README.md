@@ -23,18 +23,6 @@ src="https://komarev.com/ghpvc/?username=fematarazzo&label=Profile%20views&color
 
 - 🌐 Connect with me on [LinkedIn](https://linkedin.com/in/felipemps)
 
-<!-- - 📄 Check out my [CV](https://www.canva.com/design/DAEY7Mn3KGA/eiqwdpsKMU01GybT70aKFA/edit?category=tACZCki4tbY#) -->
-
-<h3 align="left">Deployed Projects:</h3>
-
-- [Vagas-com-API](https://github.com/fematarazzo/vagas-api): An API to search for scrapped job opportunities with filters from [Vagas.com](https://vagas.com.br)
-
-- [Sobrou App](https://github.com/fematarazzo/sobrou_app): A marketplace platform for restaurants and customers who want to buy food that would be thrown away.
-
-- [Tem Trailer](https://github.com/fematarazzo/tem_trailer): A marketplace for motorhomes and camper where customers can rent or make his own motorhome available.
-
-- [Toasty Cocktail](https://github.com/fematarazzo/rails-mister-cocktail): Cocktail recipe organizer 
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
