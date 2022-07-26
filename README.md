@@ -10,7 +10,7 @@ src="https://komarev.com/ghpvc/?username=fematarazzo&label=Profile%20views&color
 
 <!-- - 🔭 I’m currently working on [Hacker Rank](https://github.com/fematarazzo/hacker_rank) and [Star Wars App](https://github.com/fematarazzo/star_wars_app)
  -->
-<!-- - 🌱 I’m currently learning **Elixir, Phoenix, React, Node.js**
+<!-- - 🌱 I’m currently learning **Rust, Elixir, Phoenix, React, Node.js**
 
 - 🤝 I’m looking for help with [Sobrou App](https://github.com/fematarazzo/sobrou_app) -->
 
@@ -77,6 +77,8 @@ src="https://komarev.com/ghpvc/?username=fematarazzo&label=Profile%20views&color
 <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
  </a>
 <a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/>
+ </a>
+<a href="https://www.rust-lang.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/>
  </a>
 </p>
 
