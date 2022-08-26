@@ -1,5 +1,5 @@
 <h1 align="center">Hi! I'm Felipe</h1>
-<h3 align="center">A full-stack developer working with Python, Ruby on Rails, Node.js and React</h3>
+<h3 align="center">A full-stack developer working with Python, Ruby on Rails and Rust </h3>
 
 <p
  align="left"> <img 
@@ -10,9 +10,9 @@ src="https://komarev.com/ghpvc/?username=fematarazzo&label=Profile%20views&color
 
 <!-- - 🔭 I’m currently working on [Hacker Rank](https://github.com/fematarazzo/hacker_rank) and [Star Wars App](https://github.com/fematarazzo/star_wars_app)
  -->
-<!-- - 🌱 I’m currently learning **Rust, Elixir, Phoenix, React, Node.js**
+- ⚙️ I’m currently learning **Rust**
 
-- 🤝 I’m looking for help with [Sobrou App](https://github.com/fematarazzo/sobrou_app) -->
+<!-- - 🤝 I’m looking for help with [Sobrou App](https://github.com/fematarazzo/sobrou_app) -->
 
 
 - 🗄️ All of my projects are available [here](https://github.com/fematarazzo?tab=repositories)
