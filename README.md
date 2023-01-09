@@ -58,9 +58,6 @@ src="https://komarev.com/ghpvc/?username=fematarazzo&label=Profile%20views&color
  <a href="https://www.phoenixframework.org/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/phoenix/phoenix-original-wordmark.svg" alt="phoenix" width="40" height="40"/>
  </a>
- <a href="https://www.photoshop.com/en" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
- </a>
  <a href="https://www.postgresql.org" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
  </a>
@@ -76,7 +73,7 @@ src="https://komarev.com/ghpvc/?username=fematarazzo&label=Profile%20views&color
  </a>
 <a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/>
  </a>
-<a href="https://go.dev/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" alt="go" width="50" height="50"/>
+<a href="https://go.dev/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" alt="go" width="70" height="70"/>
  </a>
 </p>
 
