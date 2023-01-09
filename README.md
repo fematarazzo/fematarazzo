@@ -76,7 +76,7 @@ src="https://komarev.com/ghpvc/?username=fematarazzo&label=Profile%20views&color
  </a>
 <a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/>
  </a>
-<a href="https://go.dev/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" alt="go" width="40" height="40"/>
+<a href="https://go.dev/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" alt="go" width="50" height="50"/>
  </a>
 </p>
 
