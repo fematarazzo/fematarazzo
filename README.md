@@ -1,5 +1,5 @@
 <h1 align="center">Hi! I'm Felipe</h1>
-<h3 align="center">A full-stack developer working with Python, Ruby on Rails and Go </h3>
+<h3 align="center">A full-stack developer working with Python, Go and Ruby on Rails </h3>
 
 <p
  align="left"> <img 
@@ -23,7 +23,7 @@ src="https://komarev.com/ghpvc/?username=fematarazzo&label=Profile%20views&color
 
 - 🌐 Connect with me on [LinkedIn](https://linkedin.com/in/felipemps)
 
-
+<!--
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
  <a href="https://getbootstrap.com" target="_blank">
@@ -76,6 +76,7 @@ src="https://komarev.com/ghpvc/?username=fematarazzo&label=Profile%20views&color
 <a href="https://go.dev/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
  </a>
 </p>
+-->
 
 <p><img align="left" 
 src="https://github-readme-stats.vercel.app/api/top-langs?username=fematarazzo&show_icons=true&count_private=true&locale=en&card_width=260&layout=compact&theme=github_dark&langs_count=6"
