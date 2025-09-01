@@ -1,5 +1,4 @@
 <h1 align="center">Hi! I'm Felipe</h1>
-<h3 align="center">A developer working with Go, Python and data </h3>
 
 <p
  align="left"> <img 
