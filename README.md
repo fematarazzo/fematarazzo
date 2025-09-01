@@ -5,11 +5,11 @@ src="https://komarev.com/ghpvc/?username=fematarazzo&label=Profile%20views&color
 
 - I’m currently working for [AgileEngine](https://agileengine.com/)
 
-- I’m learning **[Go](https://go.dev/)**
+- I’m learning [Go](https://go.dev/)
 
 - All of my projects are available [here](https://github.com/fematarazzo?tab=repositories)
 
-- How to reach me **felipemps@pm.me**
+- How to reach me felipemps@pm.me
 
 - Connect with me on [LinkedIn](https://linkedin.com/in/felipemps)
 
