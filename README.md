@@ -16,8 +16,6 @@ src="https://komarev.com/ghpvc/?username=fematarazzo&label=Profile%20views&color
 
 - 🗄️ All of my projects are available [here](https://github.com/fematarazzo?tab=repositories)
 
-- 💬 Ask me about **Python**
-
 - 📫 How to reach me **felipemps@pm.me**
 
 - 🌐 Connect with me on [LinkedIn](https://linkedin.com/in/felipemps)
