@@ -1,2 +1,6 @@
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=fematarazzo&theme=github_dark)
-![](https://github-pr-stats-five.vercel.app/api/github-pr-stats?username=fematarazzo&min_stars=100)
+<div align="center">
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=fematarazzo&theme=github_dark" />
+<img src="https://github-pr-stats-five.vercel.app/api/github-pr-stats?username=fematarazzo&min_stars=100" />
+
+</div>
